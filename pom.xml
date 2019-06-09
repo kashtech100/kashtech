@@ -17,6 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<main-class>com.kashtech.kashtech.KashtechApplication</main-class>
 	</properties>
 
 	<dependencies>
